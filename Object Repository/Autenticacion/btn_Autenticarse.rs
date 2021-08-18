@@ -3,7 +3,7 @@
    <description></description>
    <name>btn_Autenticarse</name>
    <tag></tag>
-   <elementGuidId>d742160b-762b-44d5-abe1-d20984f5a8c2</elementGuidId>
+   <elementGuidId>275fa284-fff5-4203-a80e-603a3164cd1b</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>

@@ -3,7 +3,7 @@
    <description></description>
    <name>txt_usuario</name>
    <tag></tag>
-   <elementGuidId>21914ab4-9fa3-4df8-8a66-ec2320241b40</elementGuidId>
+   <elementGuidId>2af7e0fc-e239-4be8-9d49-271dc1f97af9</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>

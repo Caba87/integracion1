@@ -4,18 +4,18 @@
    <name>Login con permiso Intercambiar</name>
    <tag></tag>
    <comment></comment>
-   <testCaseGuid>4898c00e-00cf-4b92-b42f-dfbc94376385</testCaseGuid>
+   <testCaseGuid>7f915f95-ce32-4599-93ff-66659cfed839</testCaseGuid>
    <variable>
       <defaultValue>'admin'</defaultValue>
       <description></description>
-      <id>224908d4-e373-4d1d-ae01-4c69b177780b</id>
+      <id>55cc6c5f-25e0-4ef7-b9bc-6962c63408b5</id>
       <masked>false</masked>
       <name>user</name>
    </variable>
    <variable>
       <defaultValue>'admin'</defaultValue>
       <description></description>
-      <id>4b7694b8-cd0f-4e90-b081-8a217722731e</id>
+      <id>219de143-47c2-4112-a34d-a92511ae3736</id>
       <masked>false</masked>
       <name>pass</name>
    </variable>

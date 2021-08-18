@@ -3,7 +3,7 @@
    <description></description>
    <name>txt_contrasena</name>
    <tag></tag>
-   <elementGuidId>79178e84-fa2e-4a57-9826-4a34d8627bac</elementGuidId>
+   <elementGuidId>2e776d31-0aae-4d01-b7df-45dba1afe318</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>

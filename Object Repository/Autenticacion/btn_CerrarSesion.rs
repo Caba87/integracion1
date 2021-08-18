@@ -3,7 +3,7 @@
    <description></description>
    <name>btn_CerrarSesion</name>
    <tag></tag>
-   <elementGuidId>e929877a-ae91-4aef-9ea8-23f72e234451</elementGuidId>
+   <elementGuidId>eed87367-7e49-436c-bc43-c49271d10198</elementGuidId>
    <selectorCollection>
       <entry>
          <key>BASIC</key>
