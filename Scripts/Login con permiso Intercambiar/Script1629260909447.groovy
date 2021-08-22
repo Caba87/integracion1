@@ -14,25 +14,26 @@ import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.openBrowser('http://192.168.13.42/Clinicas-2.0.0/')
+WebUI.openBrowser('https://webmail.softel.cu/')
 
 WebUI.waitForPageLoad(0)
 
-WebUI.setText(findTestObject('Seguridad/Autenticacion/txt_usuario'), user)
+not_run: WebUI.setText(findTestObject('Seguridad/Autenticacion/txt_usuario'), user)
 
-WebUI.setText(findTestObject('Seguridad/Autenticacion/txt_contrasena'), pass)
+not_run: WebUI.setText(findTestObject('Seguridad/Autenticacion/txt_contrasena'), pass)
 
-WebUI.click(findTestObject('Object Repository/Seguridad/Autenticacion/btn_Autenticarse'))
+not_run: WebUI.click(findTestObject('Object Repository/Seguridad/Autenticacion/btn_Autenticarse'))
 
-WebUI.waitForPageLoad(0)
+not_run: WebUI.waitForPageLoad(0)
 
-WebUI.refresh()
+not_run: WebUI.refresh()
 
-WebUI.verifyElementClickable(findTestObject('Object Repository/Seguridad/Autenticacion/btn_CerrarSesion'))
+not_run: WebUI.verifyElementClickable(findTestObject('Object Repository/Seguridad/Autenticacion/btn_CerrarSesion'))
 
-WebUI.sendKeys(findTestObject('Object Repository/Seguridad/Autenticacion/btn_CerrarSesion2'), Keys.chord(Keys.CONTROL, 'g'))
+not_run: WebUI.sendKeys(findTestObject('Object Repository/Seguridad/Autenticacion/btn_CerrarSesion2'), Keys.chord(Keys.CONTROL, 
+        'g'))
 
-WebUI.waitForPageLoad(0)
+not_run: WebUI.waitForPageLoad(0)
 
 not_run: WebUI.verifyElementClickable(findTestObject('Admision/Admision'))
 
